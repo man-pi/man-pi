@@ -2,6 +2,11 @@
 
 Modular apps, connected by AI agent pipelines, from brainstorm to shipped, tested app. Agents build, push and test every task on their own; a human only signs off.
 
+
+
+https://github.com/user-attachments/assets/a55e7c02-39a0-45b1-90dd-b6589e2e262e
+
+
 [![Watch the 90-second overview](media/poster.jpg)](media/platform-overview.mp4)
 
 ▶ **[Watch the 90-second overview](media/platform-overview.mp4)** (with voiceover)
